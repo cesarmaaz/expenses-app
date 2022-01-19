@@ -1,3 +1,11 @@
+
+![ExpensesAppPicture](https://user-images.githubusercontent.com/81575108/150101529-f5192dc5-a657-4a23-87fb-3906a02778c9.JPG)
+
+![ExpensesAppPicture1](https://user-images.githubusercontent.com/81575108/150101540-09501096-621d-4fa7-9756-8eb7d9afa71d.JPG)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
